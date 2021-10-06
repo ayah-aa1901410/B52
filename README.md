@@ -1,2 +1,2 @@
 # B52
-Girls Lab
+Female Lab

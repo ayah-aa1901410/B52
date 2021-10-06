@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق</string>
+    <string name="username">" اسم االمستخدم"</string>
+    <string name="description">" وصف"</string>
+</resources>
